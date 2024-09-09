@@ -15,28 +15,28 @@ class Ahmed_Hemid {
   constructor() {
     this.name = "Ahmed Hemid"
     this.dayOfBirthTimestamp = 959482800000
-    this.email = ""
+    this.email = "abdh18046@gmail.com"
     this.userName = "Ahmed Hemid"
   }
 
   workExperience() {
     return [
-      { "2020-now"  : "Freelance Front-End & Back-End Developer && UI/UX using Figma" },
-      { "2020-2022"  : "Open Source @ PHP" },
-      { "2019-2020" : "Front-end Developer @ Angular" }
+      { "2020-now"  : "Freelance Data Analyst & Back-End Developer && UI/UX using Figma" },
+      { "2022-2024"  : "BI Developer/Data Analyst @ Power BI & Tableau " },
+      { "2019-2022" : "Backend @ C# & Python" }
     ]      
   }
 
   education() {
     return [
       { "2018-2022" : "Computer Science, Bachelor's degree @ Assuit University" },
-      { "2020-2022" : "Web Development Professional" }
+      { "2023-2024" : "BI Developer" }
     ]
   }
   
   skills() {
     return [ 
-      'HTML5', 'CSS3', 'JavaScript',
+      ''Python','Power BI','Tableau','SQL','SSIS/SSAS/SSRS','DWH','C#','HTML5', 'CSS3', 'JavaScript',
       'jQuery', 'Bootstrap/Angular Material',
       'Angular', 'SASS', 'npm/Artisan',
       , 'Apach','WAMP Server', 'PHP', 'MySQL',
