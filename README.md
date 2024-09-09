@@ -36,7 +36,7 @@ class Ahmed_Hemid {
   
   skills() {
     return [ 
-      ''Python','Power BI','Tableau','SQL','SSIS/SSAS/SSRS','DWH','C#','HTML5', 'CSS3', 'JavaScript',
+      'Python','Power BI','Tableau','SQL','SSIS/SSAS/SSRS','DWH','C#','HTML5', 'CSS3', 'JavaScript',
       'jQuery', 'Bootstrap/Angular Material',
       'Angular', 'SASS', 'npm/Artisan',
       , 'Apach','WAMP Server', 'PHP', 'MySQL',
